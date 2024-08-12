@@ -1,4 +1,4 @@
 # Project1
-Django Project 
+AstroPython
 <br>
 Author-Shobhit jaiswal(Github)
